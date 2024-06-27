@@ -22,3 +22,7 @@ public class Ogrenci {
     @Column(nullable = true)
     private String dtarih;
 }
+//1-  select * from ogrenci;
+//2-  select * from ogrenci where cinsiyet='K';
+//3-  SELECT DISTINCT TRIM(sinif) FROM ogrenci;
+//4-
